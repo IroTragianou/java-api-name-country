@@ -35,15 +35,6 @@ IntelliJ IDEA
 
 ...
 
-### Project Structure
-src/
- └── main/
-      └── java/
-           └── com/irotr/
-                ├── NameAnalyzer.java
-                ├── ApiResponse.java
-                └── CountryInfo.java
-
 
 ### How to Run
 Clone this repo
