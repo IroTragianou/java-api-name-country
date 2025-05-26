@@ -1,4 +1,4 @@
-# NAME AND COUNTRY PREDICTOR
+# NAME ORIGIN CHECKER
 This Java application connects to Nationalize.io REST API to predict the most likely countries associated with a given first name.
 
 It uses:
