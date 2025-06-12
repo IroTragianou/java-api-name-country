@@ -44,7 +44,7 @@ public class NameAnalyzer {
                 System.out.println("Χώρα: " + c.country_id + " (πιθανότητα: " + c.probability + ")");
             }
 
-
+//test
 
     } catch (Exception e) {
             e.printStackTrace();
